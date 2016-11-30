@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic Theme</title>
-    <link>https://example.com/tags/jekyll/index.xml</link>
-    <description>Recent content on Academic Theme</description>
+    <title>Bo Gao&#39;s Homepage (ICT-CAS)</title>
+    <link>https://bgao-vt.github.io/tags/jekyll/index.xml</link>
+    <description>Recent content on Bo Gao&#39;s Homepage (ICT-CAS)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <copyright>&amp;copy; 2016 Bo Gao</copyright>
     <atom:link href="/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Migrate from Jekyll to Hugo</title>
-      <link>https://example.com/post/migrate-from-jekyll/</link>
+      <link>https://bgao-vt.github.io/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/migrate-from-jekyll/</guid>
+      <guid>https://bgao-vt.github.io/post/migrate-from-jekyll/</guid>
       <description>
 
-&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;https://example.com/post/getting-started/&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;https://bgao-vt.github.io/post/getting-started/&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 
