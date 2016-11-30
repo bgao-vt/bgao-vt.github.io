@@ -12,23 +12,8 @@
   </url>
   
   <url>
-    <loc>https://bgao-vt.github.io/project/example-external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bgao-vt.github.io/post/getting-started/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bgao-vt.github.io/post/managing-content/</loc>
     <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bgao-vt.github.io/post/writing-markdown-latex/</loc>
-    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -42,22 +27,17 @@
   </url>
   
   <url>
-    <loc>https://bgao-vt.github.io/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bgao-vt.github.io/publication/clothing-search/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bgao-vt.github.io/home/publications/</loc>
+    <loc>https://bgao-vt.github.io/home/posts/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bgao-vt.github.io/home/posts/</loc>
+    <loc>https://bgao-vt.github.io/home/publications/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
