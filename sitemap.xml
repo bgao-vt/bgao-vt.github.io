@@ -22,11 +22,6 @@
   </url>
   
   <url>
-    <loc>https://bgao-vt.github.io/post/moving/</loc>
-    <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bgao-vt.github.io/home/about/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -34,6 +29,16 @@
   <url>
     <loc>https://bgao-vt.github.io/publication/infocom_16/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/post/infocom_16/</loc>
+    <lastmod>2015-11-28T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/post/moving/</loc>
+    <lastmod>2015-06-17T11:00:00+00:00</lastmod>
   </url>
   
   <url>
