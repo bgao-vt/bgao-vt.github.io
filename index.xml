@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>P2-SAS: Preserving Users�� Privacy in Centralized Dynamic Spectrum Access Systems (ACM MobiHoc 2016)</title>
+      <link>https://bgao-vt.github.io/publication/mobihoc_16/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/publication/mobihoc_16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Overview of Dynamic Spectrum Sharing: Ongoing Initiatives, Challenges, and a Roadmap for Future Research (IEEE TCCN 2016)</title>
       <link>https://bgao-vt.github.io/publication/tccn_16/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
@@ -84,6 +93,15 @@
       <guid>https://bgao-vt.github.io/post/infocom_16/</guid>
       <description>&lt;p&gt;Our paper titled &amp;ldquo;Incentivizing Spectrum Sensing in Database-Driven Dynamic Spectrum Sharing&amp;rdquo; has been accepted to the IEEE INFOCOM 2016 technical program! IEEE INFOCOM 2016 received 1,644 paper submissions, of which 300 papers were accepted after a thorough review process (acceptance rate of 18.25%).&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Defining Incumbent Protection Zones on the Fly: Dynamic Boundaries for Spectrum Sharing (IEEE DySPAN 2015)</title>
+      <link>https://bgao-vt.github.io/publication/dyspan_15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/publication/dyspan_15/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -147,24 +165,6 @@
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>https://bgao-vt.github.io/publication/wcm_12/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uplink Soft Frequency Reuse for Self-Coexistence of Cognitive Radio Networks Operating in White-Space Spectrum (IEEE INFOCOM 2012)</title>
-      <link>https://bgao-vt.github.io/publication/infocom_12/</link>
-      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://bgao-vt.github.io/publication/infocom_12/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Channel Aggregation in Cognitive Radio Networks with Practical Considerations (IEEE ICC 2011)</title>
-      <link>https://bgao-vt.github.io/publication/icc_11/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://bgao-vt.github.io/publication/icc_11/</guid>
       <description></description>
     </item>
     
