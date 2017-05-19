@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bo Gao</copyright>
-    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>P2-SAS: Privacy-Preserving Centralized Dynamic Spectrum Access System (IEEE JSAC 2017)</title>
+      <link>https://bgao-vt.github.io/publication/jsac_17/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/publication/jsac_17/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>P2-SAS: Preserving Users&#39; Privacy in Centralized Dynamic Spectrum Access Systems (ACM MobiHoc 2016)</title>
