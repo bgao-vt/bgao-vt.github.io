@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>TESSO: An Analytical Tool for Characterizing Aggregate Interference and Enabling Spatial Spectrum Sharing (IEEE DySPAN 2017)</title>
+      <link>https://bgao-vt.github.io/publication/dyspan_17/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/publication/dyspan_17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>P2-SAS: Privacy-Preserving Centralized Dynamic Spectrum Access System (IEEE JSAC 2017)</title>
       <link>https://bgao-vt.github.io/publication/jsac_17/</link>
       <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
@@ -149,16 +158,6 @@
       
       <guid>https://bgao-vt.github.io/publication/dyspan_15/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Happy Moving</title>
-      <link>https://bgao-vt.github.io/post/moving/</link>
-      <pubDate>Wed, 17 Jun 2015 11:00:00 +0000</pubDate>
-      
-      <guid>https://bgao-vt.github.io/post/moving/</guid>
-      <description>&lt;p&gt;My personal website has moved to this page!&lt;/p&gt;
-</description>
     </item>
     
   </channel>
