@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bo Gao&#39;s Homepage (BJTU)</title>
-    <link>https://bgao-vt.github.io/tags/cognitive-radio-networks/index.xml</link>
-    <description>Recent content on Bo Gao&#39;s Homepage (BJTU)</description>
+    <title>Cognitive Radio Networks on Bo Gao&#39;s Homepage (BJTU)</title>
+    <link>https://bgao-vt.github.io/tags/cognitive-radio-networks/</link>
+    <description>Recent content in Cognitive Radio Networks on Bo Gao&#39;s Homepage (BJTU)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bo Gao</copyright>
-    <atom:link href="/tags/cognitive-radio-networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/cognitive-radio-networks/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dynamic Spectrum Access</title>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bo Gao&#39;s Homepage (BJTU)</title>
+    <link>https://bgao-vt.github.io/tags/</link>
+    <description>Recent content in Tags on Bo Gao&#39;s Homepage (BJTU)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bo Gao</copyright>
+    <lastBuildDate>Fri, 11 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cognitive Radio Networks</title>
+      <link>https://bgao-vt.github.io/tags/cognitive-radio-networks/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/tags/cognitive-radio-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Spectrum Access</title>
+      <link>https://bgao-vt.github.io/tags/dynamic-spectrum-access/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/tags/dynamic-spectrum-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geolocation Database</title>
+      <link>https://bgao-vt.github.io/tags/geolocation-database/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/tags/geolocation-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunistic Spectrum Access</title>
+      <link>https://bgao-vt.github.io/tags/opportunistic-spectrum-access/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/tags/opportunistic-spectrum-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrum Sharing</title>
+      <link>https://bgao-vt.github.io/tags/spectrum-sharing/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/tags/spectrum-sharing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

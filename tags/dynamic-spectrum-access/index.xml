@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bo Gao&#39;s Homepage (BJTU)</title>
-    <link>https://bgao-vt.github.io/tags/dynamic-spectrum-access/index.xml</link>
-    <description>Recent content on Bo Gao&#39;s Homepage (BJTU)</description>
+    <title>Dynamic Spectrum Access on Bo Gao&#39;s Homepage (BJTU)</title>
+    <link>https://bgao-vt.github.io/tags/dynamic-spectrum-access/</link>
+    <description>Recent content in Dynamic Spectrum Access on Bo Gao&#39;s Homepage (BJTU)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bo Gao</copyright>
-    <atom:link href="/tags/dynamic-spectrum-access/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/dynamic-spectrum-access/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Database-Driven Dynamic Spectrum Sharing</title>

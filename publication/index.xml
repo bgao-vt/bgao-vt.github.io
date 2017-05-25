@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication-rsses on Bo Gao&#39;s Homepage (BJTU)</title>
-    <link>https://bgao-vt.github.io/publication/index.xml</link>
-    <description>Recent content in Publication-rsses on Bo Gao&#39;s Homepage (BJTU)</description>
+    <title>Publications on Bo Gao&#39;s Homepage (BJTU)</title>
+    <link>https://bgao-vt.github.io/publication/</link>
+    <description>Recent content in Publications on Bo Gao&#39;s Homepage (BJTU)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Bo Gao</copyright>
     <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>TESSO: An Analytical Tool for Characterizing Aggregate Interference and Enabling Spatial Spectrum Sharing (IEEE DySPAN 2017)</title>

@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bgao-vt.github.io/</loc>
-    <lastmod>2017-04-14T11:00:00+00:00</lastmod>
+    <loc>https://bgao-vt.github.io/home/posts/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/home/publications_selected/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/home/projects/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/home/contact/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -122,23 +138,74 @@
   </url>
   
   <url>
-    <loc>https://bgao-vt.github.io/home/posts/</loc>
+    <loc>https://bgao-vt.github.io/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bgao-vt.github.io/home/publications_selected/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <loc>https://bgao-vt.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bgao-vt.github.io/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <loc>https://bgao-vt.github.io/tags/cognitive-radio-networks/</loc>
+    <lastmod>2015-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bgao-vt.github.io/home/contact/</loc>
+    <loc>https://bgao-vt.github.io/tags/dynamic-spectrum-access/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/tags/geolocation-database/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/home/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/tags/opportunistic-spectrum-access/</loc>
+    <lastmod>2015-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/post/</loc>
+    <lastmod>2017-04-14T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/project/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/publication/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/tags/spectrum-sharing/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/tags/</loc>
+    <lastmod>2015-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
