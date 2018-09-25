@@ -38,6 +38,16 @@
   </url>
   
   <url>
+    <loc>https://bgao-vt.github.io/people/ms/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bgao-vt.github.io/people/phd/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bgao-vt.github.io/publication/wcmc_18/</loc>
     <lastmod>2018-07-11T00:00:00+00:00</lastmod>
   </url>
@@ -98,11 +108,6 @@
   </url>
   
   <url>
-    <loc>https://bgao-vt.github.io/people/dbss/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bgao-vt.github.io/project/dbss/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -115,11 +120,6 @@
   <url>
     <loc>https://bgao-vt.github.io/post/infocom_16/</loc>
     <lastmod>2015-11-28T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bgao-vt.github.io/people/dsa/</loc>
-    <lastmod>2015-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -168,6 +168,12 @@
   </url>
   
   <url>
+    <loc>https://bgao-vt.github.io/tags/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bgao-vt.github.io/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -210,7 +216,7 @@
   
   <url>
     <loc>https://bgao-vt.github.io/people/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -240,7 +246,7 @@
   
   <url>
     <loc>https://bgao-vt.github.io/tags/</loc>
-    <lastmod>2015-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
