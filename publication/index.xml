@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Bo Gao</copyright>
-    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jul 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fog Computing-Assisted Energy-Efficient Resource Allocation for High-Mobility MIMO-OFDMA Networks (WCMC 2018)</title>
+      <link>https://bgao-vt.github.io/publication/wcmc_18/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/publication/wcmc_18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving Incumbent Users&#39; Privacy in Exclusion-Zone-Based Spectrum Access Systems (IEEE ICDCS 2017)</title>
+      <link>https://bgao-vt.github.io/publication/icdcs_17/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/publication/icdcs_17/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TESSO: An Analytical Tool for Characterizing Aggregate Interference and Enabling Spatial Spectrum Sharing (IEEE DySPAN 2017)</title>
