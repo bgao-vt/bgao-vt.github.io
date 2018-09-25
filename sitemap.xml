@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://bgao-vt.github.io/post/lancaster/</loc>
+    <lastmod>2018-09-30T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bgao-vt.github.io/publication/wcmc_18/</loc>
     <lastmod>2018-07-11T00:00:00+00:00</lastmod>
   </url>
@@ -45,11 +50,6 @@
   <url>
     <loc>https://bgao-vt.github.io/publication/icdcs_17/</loc>
     <lastmod>2017-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bgao-vt.github.io/post/bjtu/</loc>
-    <lastmod>2017-04-14T11:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -200,7 +200,7 @@
   
   <url>
     <loc>https://bgao-vt.github.io/post/</loc>
-    <lastmod>2017-04-14T11:00:00+00:00</lastmod>
+    <lastmod>2018-09-30T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

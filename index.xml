@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Visit to Lancaster University</title>
+      <link>https://bgao-vt.github.io/post/lancaster/</link>
+      <pubDate>Sun, 30 Sep 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/post/lancaster/</guid>
+      <description>&lt;p&gt;I will be visiting Lancaster University, UK for professional training from Oct. 2018 to Jul. 2019. I will teach at the Lancaster University College located in our Weihai campus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fog Computing-Assisted Energy-Efficient Resource Allocation for High-Mobility MIMO-OFDMA Networks (WCMC 2018)</title>
       <link>https://bgao-vt.github.io/publication/wcmc_18/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
@@ -26,16 +36,6 @@
       
       <guid>https://bgao-vt.github.io/publication/icdcs_17/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Joined Beijing Jiaotong University</title>
-      <link>https://bgao-vt.github.io/post/bjtu/</link>
-      <pubDate>Fri, 14 Apr 2017 11:00:00 +0000</pubDate>
-      
-      <guid>https://bgao-vt.github.io/post/bjtu/</guid>
-      <description>&lt;p&gt;I have recently joined the faculty of the School of Computer and Information Technology, Beijing Jiaotong University, China. I am currently an Associate Professor, and I will teach at the Lancaster University College, a joint institute with Lancaster University, UK located in our Weihai campus.&lt;/p&gt;
-</description>
     </item>
     
     <item>
