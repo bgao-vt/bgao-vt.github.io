@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2019 Bo Gao</copyright>
-    <lastBuildDate>Sun, 30 Sep 2018 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2019 11:00:00 +0000</lastBuildDate>
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Acceptance to IEEE TWC</title>
+      <link>https://bgao-vt.github.io/post/twc_20/</link>
+      <pubDate>Thu, 26 Sep 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/post/twc_20/</guid>
+      <description>&lt;p&gt;Our paper titled &amp;ldquo;Spectrum Sharing Among Rapidly Deployable Small Cells: A Hybrid Multi-Agent Approach&amp;rdquo; has been accepted to the IEEE Transactions on Wireless Communications! Please check the section of Publications for details.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Visit to Lancaster University</title>

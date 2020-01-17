@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2019 Bo Gao</copyright>
-    <lastBuildDate>Fri, 11 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>5g/6g</title>
+      <link>https://bgao-vt.github.io/tags/5g/6g/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/tags/5g/6g/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cognitive Radio Networks</title>
@@ -38,6 +47,24 @@
     </item>
     
     <item>
+      <title>Hetnet</title>
+      <link>https://bgao-vt.github.io/tags/hetnet/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/tags/hetnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://bgao-vt.github.io/tags/machine-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Opportunistic Spectrum Access</title>
       <link>https://bgao-vt.github.io/tags/opportunistic-spectrum-access/</link>
       <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
@@ -47,9 +74,18 @@
     </item>
     
     <item>
+      <title>Small Cells</title>
+      <link>https://bgao-vt.github.io/tags/small-cells/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgao-vt.github.io/tags/small-cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spectrum Sharing</title>
       <link>https://bgao-vt.github.io/tags/spectrum-sharing/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://bgao-vt.github.io/tags/spectrum-sharing/</guid>
       <description></description>
